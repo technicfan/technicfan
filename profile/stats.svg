@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="61.21"
+          width="61.2"
           height="8"
           fill="#b07219"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="61.21"
+          x="61.2"
           y="0"
           width="58.18"
           height="8"
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="119.39"
+          x="119.38"
           y="0"
-          width="40.15"
+          width="40.14"
           height="8"
           fill="#555555"
         />
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="159.54"
+          x="159.51999999999998"
           y="0"
           width="33.1"
           height="8"
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="192.64"
+          x="192.61999999999998"
           y="0"
-          width="29.28"
+          width="29.31"
           height="8"
           fill="#89e051"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="221.92"
+          x="221.92999999999998"
           y="0"
-          width="28.08"
+          width="28.07"
           height="8"
           fill="#00ADD8"
         />
@@ -219,7 +219,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 11.71%
+        Shell 11.72%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
